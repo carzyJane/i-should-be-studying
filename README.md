@@ -1,5 +1,3 @@
-# i-should-be-studying
-
 # 🎧 王陆词汇训练室 | IELTS Vocabulary Trainer
 
 > 雅思还没考出来，背单词网站先写出来了。
